@@ -1,5 +1,5 @@
 ## Survey
-Thanks for taking a few minute to help make the web a better place!  The world wide web is perhaps the greatest egalitarian communications platform, ever, and we believe we have a part to play in towards that end.  As a community of professional developers, designers, editors, project managers, open-source contributors, we help create the web and help indviduals and organizations communicate their message.  Who exactly makes up this community of indivudals who are contributing to a more free and open communication medium?
+Thanks for taking a few minutes to help make the web a better place!  The world wide web is perhaps the greatest egalitarian communications platform, ever, and we believe we have a part to play towards that end.  As a community of professional developers, designers, editors, project managers, open-source contributors, we help create the web and help indviduals and organizations communicate their message.  Who exactly makes up this community of individuals who are contributing to a more free and open communication medium?
 
 Let us know how you identify yourself, so we can get a better vision of who we are as a whole, and thus how we can leverage our diverse identity.
 
